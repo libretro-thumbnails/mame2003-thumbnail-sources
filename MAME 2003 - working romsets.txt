@@ -19,19 +19,23 @@
 3stooges
 3wonders
 3wonderu
+40love
 47pie2
 47pie2o
 4dwarrio
 4enraya
 4in1
+4in1boot
 600
+64streej
+64street
 720
 720g
 720gr1
 720r1
 720r2
 720r3
-78.txt
+7jigen
 7toitsu
 800fath
 88games
@@ -39,9 +43,12 @@
 8ball1
 8ballact
 8ballat2
+8bpm
 99lstwar
 99lstwra
 a51mxr3k
+aafb
+aafbb
 aafbc
 aafbd2p
 abaseb
@@ -79,6 +86,7 @@ aliensu
 aliensyn
 aligatun
 alleymas
+alphaho
 alpham2
 alphaona
 alphaone
@@ -140,7 +148,13 @@ arkangc
 arkanoid
 arkarea
 arkatayt
+arkatour
 arkbloc2
+arknid2j
+arknid2u
+arknoid2
+arknoidj
+arknoidu
 arknoiuo
 arkretrn
 arlingtn
@@ -214,6 +228,7 @@ azurian
 baddudes
 badlands
 bagman
+bagmanmc
 bagmans
 bagmans2
 bagnard
@@ -264,6 +279,7 @@ batugnsp
 bayroute
 bbakradu
 bbakraid
+bballs
 bbbxing
 bbmanw
 bbmanwj
@@ -295,6 +311,7 @@ bigevglf
 bigkarnk
 bigprowr
 bigrun
+bigstrik
 bigstrkb
 bigtwin
 bijokkog
@@ -306,10 +323,12 @@ biomtoy
 bionicc
 bionicc2
 bioship
+bishi
 bjourney
 bjtwin
 bking
 bking2
+bking3
 bkrtmaq
 bktigerb
 bladestl
@@ -407,6 +426,7 @@ boxer
 boxingb
 boxyboy
 bradley
+brain
 brdrlinb
 breakers
 breakrev
@@ -501,6 +521,7 @@ carjmbre
 carnevil
 carnival
 carnvckt
+carpolo
 castfant
 catch22
 cavelon
@@ -539,6 +560,7 @@ cfghtice
 cgangpzj
 cgangpzl
 cgraplop
+chaknpop
 challeng
 chameleo
 champbas
@@ -560,6 +582,8 @@ chelnovu
 cheyenne
 chikij
 chiller
+chimerab
+chinagat
 chinatwn
 chinher2
 chinhero
@@ -643,6 +667,7 @@ contra
 contrab
 contraj
 contrajb
+cookbib2
 cookrace
 cop01
 cop01a
@@ -696,6 +721,7 @@ crush3
 crusnu21
 crusnu40
 crusnusa
+crusnw13
 crusnw20
 crusnwld
 cryptklr
@@ -854,6 +880,7 @@ devstor2
 devstor3
 devstors
 devzone
+devzone2
 dfeveron
 dharma
 diamond
@@ -882,6 +909,7 @@ dkngjnrb
 dkngjnrj
 dkong
 dkong3
+dkong3b
 dkong3j
 dkongjo
 dkongjo1
@@ -930,6 +958,7 @@ dotrona
 dotrone
 doubledr
 douni
+dowild
 downtown
 dplay
 dragnblz
@@ -949,9 +978,13 @@ drifto94
 driftout
 drius2do
 driveout
+drivfrcg
 drivfrcp
 drmario
 drmicro
+drtoppel
+drtopplj
+drtopplu
 dsaber
 dsaberj
 dsccr94j
@@ -985,6 +1018,7 @@ edf
 edrandy
 edrandy1
 edrandyj
+eggor
 eggs
 eggventr
 eggvntdx
@@ -1011,6 +1045,8 @@ empcityj
 endurob2
 endurobl
 enforce
+enigma2
+enigma2a
 eprom
 eprom2
 esb
@@ -1028,6 +1064,7 @@ excitbkj
 excitebk
 excthour
 exctscca
+exctsccb
 exctsccr
 exedexes
 exerion
@@ -1039,6 +1076,7 @@ explorer
 exprraid
 extdwnhl
 exterm
+extrmatn
 exvania
 exzisus
 eyes
@@ -1055,6 +1093,7 @@ falcon
 fantasia
 fantasy
 fantasyj
+fantazia
 fantland
 fantsia2
 fantsy95
@@ -1079,19 +1118,27 @@ fghtatck
 fgtlayer
 fhawk
 fhawkj
+fieldday
 fightfev
 fightfva
 fightrol
+finalap3
+finalapc
+finalapd
 finalb
 finalbj
 finalbny
 finalizb
 finalizr
+finallap
 findout
 finehour
+finlapjb
+finlapjc
 firebarr
 firebatl
 fireone
+fireshrk
 firetpbl
 firetrap
 firetrk
@@ -1104,6 +1151,7 @@ flicky
 flickyo
 flipshot
 flkatck
+flower
 flstory
 flstoryj
 flyball
@@ -1301,6 +1349,7 @@ gradius
 gradius2
 gradius3
 gratia
+gratiaa
 gravitar
 gravitr2
 gravp
@@ -1341,7 +1390,9 @@ gtg
 gtg2
 gtg2j
 gtg2t
+gtmr
 gtmr2
+gtmre
 gtmrusa
 guardian
 guiness
@@ -1475,11 +1526,13 @@ hmcompmx
 hnayayoi
 hnfubuki
 hnkochou
+hnoridur
 hoccer
 hoccer2
 hogalley
 holeland
 holo
+homerun
 homo
 hook
 hooku
@@ -1504,6 +1557,7 @@ hpolym84
 hpuncher
 hstenn10
 hstennis
+htchctch
 hthero
 hthero93
 hthero95
@@ -1519,6 +1573,8 @@ hvymetal
 hwchamp
 hwrace
 hydra
+hydrap
+hydrap2
 hyhoo
 hyhoo2
 hyouban
@@ -1541,11 +1597,14 @@ idhimitu
 idolmj
 idsoccer
 iemoto
+iganinju
+igmo
 ikari
 ikari3
 ikarijp
 ikarijpb
 ikki
+imago
 imekura
 imgfight
 imsorry
@@ -1559,6 +1618,7 @@ indytemp
 inferno
 insector
 insectx
+intcup94
 inthunt
 inthuntu
 intrepi2
@@ -1619,6 +1679,7 @@ jumpbug
 jumpbugb
 jumpcoas
 jumping
+jumpkids
 jumpshot
 jungleh
 junglek
@@ -1638,6 +1699,7 @@ kaitei
 kaiteids
 kaitein
 kamenrid
+kamikaze
 kamikcab
 kanatuen
 kangaroa
@@ -1661,7 +1723,10 @@ kengo
 kick
 kicka
 kicker
+kickgoal
+kicknrun
 kickoff
+kickridr
 kidniki
 kikcubic
 kikikai
@@ -1730,6 +1795,7 @@ kram2
 kroozr
 krull
 krzybowl
+ktiger
 ktiger2
 kuhga
 kungfub
@@ -1738,6 +1804,7 @@ kungfud
 kungfum
 kungfut
 kuniokub
+kuniokun
 kurikina
 kurikinj
 kurikint
@@ -1782,6 +1849,7 @@ ldruna
 le2
 le2u
 leaguemn
+ledstorm
 legend
 legendos
 legofair
@@ -1793,6 +1861,7 @@ lethalth
 levers
 lgtnfght
 liberate
+liberatr
 liblrabl
 lifefrce
 lifefrcj
@@ -1801,8 +1870,11 @@ liquidk
 liquidku
 lizwiz
 lkage
+lkageb
 lkageb2
 lkageb3
+llander
+llander1
 lnc
 locomotn
 loderdfa
@@ -1842,6 +1914,7 @@ m79amb
 mace
 mach3
 machbrkr
+machomou
 machridj
 machridr
 macross
@@ -1849,6 +1922,8 @@ macross2
 macrossp
 madcrash
 maddonna
+madgear
+madgearj
 madmotor
 madshark
 magdrop2
@@ -1907,6 +1982,7 @@ marvland
 marvlanj
 masao
 masterw
+mastkin
 matchit
 matmania
 mausuke
@@ -1941,6 +2017,7 @@ megaman2
 megatack
 megaznik
 megazone
+meikyuh
 meosism
 mercs
 mercsj
@@ -2067,6 +2144,7 @@ moguchan
 mogura
 mole
 momoko
+monkeyd
 monsterb
 montecar
 monymony
@@ -2097,6 +2175,7 @@ mouser
 mouserc
 mpangj
 mpatrol
+mpatrolw
 mplanets
 mplanuk
 mrdo
@@ -2114,6 +2193,7 @@ mrkougb
 mrkougr2
 mrlo
 mrokumei
+mrtnt
 mrviking
 mrvikngj
 mschamp
@@ -2234,6 +2314,7 @@ newfant
 newpuc2
 newpuc2b
 newpuckx
+news
 newsin7
 ngpgal
 nibbler
@@ -2249,10 +2330,12 @@ ninjakun
 ninjamas
 ninjaw
 ninjawj
+ninjemak
 nitd
 nitedrvr
 nitrobal
 niyanpai
+nkdodgeb
 nmaster
 nmouse
 nmouseb
@@ -2293,6 +2376,7 @@ offtwalc
 offtwall
 ogonsiro
 ohmygod
+oigas
 oisipuzl
 ojanko2
 ojankoc
@@ -2300,6 +2384,7 @@ ojankohs
 ojankoy
 ojousan
 olibochu
+omega
 omegaf
 omegafs
 omegrace
@@ -2356,6 +2441,7 @@ pacmanbl
 pacmania
 pacmanij
 pacmod
+pacnchmp
 pacnpal
 pacnpal2
 pacplus
@@ -2394,6 +2480,7 @@ pbactio2
 pbaction
 pballoon
 pbancho
+pbillian
 pbillrd
 pbobbl2j
 pbobbl2n
@@ -2480,6 +2567,7 @@ percuss
 perestro
 perfrman
 perfrmau
+pestplce
 peterpak
 pfghtj
 pgear
@@ -2496,6 +2584,8 @@ phoenixc
 phoenixt
 phozon
 pickin
+pignewt
+pignewta
 pigout
 pigouta
 pigskin
@@ -2534,6 +2624,7 @@ pleiads
 plgirls
 plgirls2
 plotting
+plumppop
 plusalph
 pnickj
 poitto
@@ -2602,6 +2693,7 @@ pspikes
 pspikes2
 pspikesk
 pstadium
+psurge
 psychic5
 psychos
 psychosj
@@ -2637,6 +2729,7 @@ puzzldpr
 puzzledp
 puzzli
 puzzloop
+puzznic
 pwheelsj
 pwrgoal
 pwrinst2
@@ -2729,6 +2822,7 @@ raidenk
 raident
 raiders5
 raidrs5t
+raiga
 raimais
 rainbow
 rainbowe
@@ -2781,6 +2875,7 @@ reikaids
 relief
 relief2
 renaiclb
+renegade
 repulse
 rescraid
 rescrdsa
@@ -2806,6 +2901,7 @@ ringdest
 ringfgt
 ringfgt2
 ringkin2
+ringkin3
 ringking
 ringohja
 ringrage
@@ -2854,6 +2950,8 @@ robotron
 robotryo
 rockclim
 rockmanj
+rockn
+rockrage
 rockragj
 rocnrope
 rocnropk
@@ -2896,6 +2994,7 @@ rugrats
 runark
 runaway
 rundeep
+rungun
 rungunu
 rushatck
 rushcrsh
@@ -2922,8 +3021,11 @@ sailorwr
 sailorws
 saiyugb1
 saiyugb2
+saiyugou
 salamand
 salamanj
+samesam2
+samesame
 samsho
 samsho2
 samsho3
@@ -3089,6 +3191,7 @@ sharkatt
 sharrier
 shdancer
 shdancrj
+sheriff
 shienryu
 shinobi
 shinobl
@@ -3181,6 +3284,7 @@ sliksh17
 slikshot
 slither
 slithera
+slmdunkj
 slyspy
 slyspy2
 smashtv
@@ -3232,6 +3336,7 @@ spacduel
 spaceat2
 spaceatt
 spacebrd
+spacecho
 spacecr
 spacedem
 spacedx
@@ -3275,6 +3380,7 @@ spclforc
 spcnv95u
 spdball
 spdcoin
+spdodgeb
 speakres
 spectar
 spectar1
@@ -3310,6 +3416,7 @@ sprint1
 sprint2
 sprint2a
 sprint4
+sprint4a
 sprint8
 sprint8a
 sprtmtch
@@ -3376,6 +3483,8 @@ ssrdruac
 ssrdrubc
 ssrdruda
 ssriders
+ssrj
+sstingry
 sstrangr
 sstriker
 sstrngr2
@@ -3398,6 +3507,7 @@ stargate
 stargrds
 starhawk
 starjack
+starjacs
 starlstr
 starshp1
 starshpp
@@ -3432,6 +3542,7 @@ stratab
 stratab1
 stratgys
 stratgyx
+stratof
 stratvox
 streakng
 streets1
@@ -3467,6 +3578,7 @@ sundance
 supbtime
 supbtimj
 superbik
+superbon
 superbug
 superchs
 superg
@@ -3490,6 +3602,8 @@ surpratk
 survarts
 sutapper
 suzuk8h2
+suzuk8hj
+suzuka8h
 svf
 svolley
 svolleyk
@@ -3554,6 +3668,8 @@ teedoff
 tehkanwc
 tekipaki
 tekken
+tekken2
+tekken2a
 tekken2b
 tekken3
 tekkena
@@ -3615,6 +3731,7 @@ tigeroad
 timber
 timek131
 timekill
+timelimt
 timeplt
 timepltc
 timesol1
@@ -3628,6 +3745,7 @@ tiptop
 tkmmpzdm
 tknight
 tkoboxng
+tmekprot
 tmht
 tmht2p
 tmnt
@@ -3670,6 +3788,7 @@ topgun
 topgunbl
 topgunr
 tophuntr
+topracer
 topsecex
 topsecrt
 topspedu
@@ -3677,6 +3796,7 @@ topspeed
 toramich
 toratora
 toride2g
+tornbase
 toryumon
 totcarn
 totcarnp
@@ -3736,6 +3856,7 @@ tshoot
 tst_galx
 tst_invd
 ttmahjng
+tturf
 tturfbl
 tturfu
 tubeit
@@ -3751,6 +3872,7 @@ turbo
 turboa
 turbob
 turbofrc
+turbotag
 turfmast
 turpin
 turtles
@@ -3782,6 +3904,7 @@ ultrax
 umanclub
 umk3
 umk3r11
+undoukai
 undrfire
 undrfirj
 undrfiru
@@ -3849,6 +3972,9 @@ viewpoin
 vigilant
 vigilntj
 vigilntu
+vimana
+vimana1
+vimanan
 vindc2r1
 vindc2r2
 vindctr2
@@ -3915,6 +4041,7 @@ waterski
 wb3
 wb3bl
 wbdeluxe
+wbeachvl
 wbmlb
 wbmljb
 wboy
@@ -3950,6 +4077,7 @@ wh1h
 wh2
 wh2j
 whodunit
+whoopee
 whp
 wildfang
 willow
@@ -4020,6 +4148,7 @@ xsleena
 xsleenab
 xxmissio
 xybots
+xybots0
 xybots1
 xybotsf
 xybotsg
@@ -4058,7 +4187,7 @@ zerowing
 zerozone
 zigzag
 zigzag2
-zin
+zingzip
 zoar
 zodiack
 zombraid
